@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|AnyCPU">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|ARM">
+      <Configuration>Debug</Configuration>
+      <Platform>ARM</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x86">
+      <Configuration>Debug</Configuration>
+      <Platform>x86</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|AnyCPU">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|ARM">
+      <Configuration>Release</Configuration>
+      <Platform>ARM</Platform>
+      <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+      <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x86">
+      <Configuration>Release</Configuration>
+      <Platform>x86</Platform>
+      <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>88b7e0c9-2b00-43c3-809e-06746111d60d</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup Condition="'$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '15.0'">
+    <VisualStudioVersion>15.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).Default.props" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).props" />
+  <PropertyGroup>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetPlatformVersion>10.0.17134.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.15063.0</TargetPlatformMinVersion>
+    <MinimumVisualStudioVersion>$(VersionNumberMajor).$(VersionNumberMinor)</MinimumVisualStudioVersion>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <PackageCertificateKeyFile>batchone_TemporaryKey.pfx</PackageCertificateKeyFile>
+    <GenerateAppInstallerFile>False</GenerateAppInstallerFile>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <AppxBundle>Always</AppxBundle>
+    <AppxBundlePlatforms>x64</AppxBundlePlatforms>
+    <AppInstallerUpdateFrequency>1</AppInstallerUpdateFrequency>
+    <AppInstallerCheckForUpdateFrequency>OnApplicationRun</AppInstallerCheckForUpdateFrequency>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppxManifest Include="package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <Content Include="images\10410117_356453944532089_1775201709199107715_n (Small).jpg" />
+    <Content Include="images\10421146_633331156757641_3468701943440338474_n (Small).jpg" />
+    <Content Include="images\10501663_857068337659530_8124357899062474680_n (Small).jpg" />
+    <Content Include="images\10633913_314340392092267_5249081227674460974_o (Small).jpg" />
+    <Content Include="images\10676263_383425115168305_990433615456419469_n (Small).jpg" />
+    <Content Include="images\10697301_877717452293820_2572722507979854419_o (Small).jpg" />
+    <Content Include="images\10818304_314342162092090_395172027976619217_o (Small).jpg" />
+    <Content Include="images\10947414_398237917020358_5508297861648559301_o (Small).jpg" />
+    <Content Include="images\11016969_944519922234143_5126001679330426792_o (Small).jpg" />
+    <Content Include="images\12496029_573921242762251_2052762012375327306_o (Small).jpg" />
+    <Content Include="images\13329581_1212963658769196_6387393253947498954_o (Small).jpg" />
+    <Content Include="images\13344505_1221330757890559_2030607383359106390_n (1).jpg" />
+    <Content Include="images\13344505_1221330757890559_2030607383359106390_n (Small).jpg" />
+    <Content Include="images\15027644_553454368177658_7347492840023171616_n (Small).jpg" />
+    <Content Include="images\15442201_742229712594750_6526014741622933126_n (Small).jpg" />
+    <Content Include="images\16143591_1321943831211434_8589874105443143401_o (Small).jpg" />
+    <Content Include="images\28795081_1872774442746184_1929830661242224640_o (Small).jpg" />
+    <Content Include="images\29790495_788669601322799_1212993983815352320_o (Small).jpg" />
+    <Content Include="images\BadgeLogo.scale-100.jpg" />
+    <Content Include="images\BadgeLogo.scale-100.png" />
+    <Content Include="images\BadgeLogo.scale-125.jpg" />
+    <Content Include="images\BadgeLogo.scale-125.png" />
+    <Content Include="images\BadgeLogo.scale-150.jpg" />
+    <Content Include="images\BadgeLogo.scale-150.png" />
+    <Content Include="images\BadgeLogo.scale-200.jpg" />
+    <Content Include="images\BadgeLogo.scale-200.png" />
+    <Content Include="images\BadgeLogo.scale-400.jpg" />
+    <Content Include="images\BadgeLogo.scale-400.png" />
+    <Content Include="images\Fiore-Toyota.jpg" />
+    <Content Include="images\IMAG0301 (Small).jpg" />
+    <Content Include="images\IMG20160901154848 (Small).jpg" />
+    <Content Include="images\IMG_20170414_180116 (Small).jpg" />
+    <Content Include="images\IMG_20180413_234539 (Small).jpg" />
+    <Content Include="images\IMG_5442.jpg" />
+    <Content Include="images\IMG_5916 (Small).JPG" />
+    <Content Include="images\LargeTile.scale-100.png" />
+    <Content Include="images\LargeTile.scale-125.png" />
+    <Content Include="images\LargeTile.scale-150.png" />
+    <Content Include="images\LargeTile.scale-200.png" />
+    <Content Include="images\LargeTile.scale-400.png" />
+    <Content Include="images\lasttour.jpg" />
+    <Content Include="images\pic_cox.jpg" />
+    <Content Include="images\pic_farewell (Small).jpg" />
+    <Content Include="images\pic_firstcampus.jpg" />
+    <Content Include="images\pic_firstclass.jpg" />
+    <Content Include="images\pic_firstfootball.jpg" />
+    <Content Include="images\pic_firsthangout.jpg" />
+    <Content Include="images\pic_firstviva.jpg" />
+    <Content Include="images\pic_hillyvalley (Small).JPG" />
+    <Content Include="images\pic_oldcombined (Small).jpg" />
+    <Content Include="images\pic_panam (Small).jpg" />
+    <Content Include="images\pic_sumit (Small).jpg" />
+    <Content Include="images\rag (Small).jpg" />
+    <Content Include="images\SmallTile.scale-100.png" />
+    <Content Include="images\SmallTile.scale-125.png" />
+    <Content Include="images\SmallTile.scale-150.png" />
+    <Content Include="images\SmallTile.scale-200.png" />
+    <Content Include="images\SmallTile.scale-400.png" />
+    <Content Include="images\splashscreen.scale-100.png" />
+    <Content Include="images\splashscreen.scale-125.png" />
+    <Content Include="images\splashscreen.scale-150.png" />
+    <Content Include="images\splashscreen.scale-400.png" />
+    <Content Include="images\Square150x150Logo.scale-100.png" />
+    <Content Include="images\Square150x150Logo.scale-125.png" />
+    <Content Include="images\Square150x150Logo.scale-150.png" />
+    <Content Include="images\Square150x150Logo.scale-400.png" />
+    <Content Include="images\Square44x44Logo.altform-unplated_targetsize-16.png" />
+    <Content Include="images\Square44x44Logo.altform-unplated_targetsize-256.png" />
+    <Content Include="images\Square44x44Logo.altform-unplated_targetsize-32.png" />
+    <Content Include="images\Square44x44Logo.altform-unplated_targetsize-48.png" />
+    <Content Include="images\Square44x44Logo.scale-100.png" />
+    <Content Include="images\Square44x44Logo.scale-125.png" />
+    <Content Include="images\Square44x44Logo.scale-150.png" />
+    <Content Include="images\Square44x44Logo.scale-400.png" />
+    <Content Include="images\Square44x44Logo.targetsize-16.png" />
+    <Content Include="images\Square44x44Logo.targetsize-24.png" />
+    <Content Include="images\Square44x44Logo.targetsize-256.png" />
+    <Content Include="images\Square44x44Logo.targetsize-32.png" />
+    <Content Include="images\Square44x44Logo.targetsize-48.png" />
+    <Content Include="images\storelogo.scale-100.png" />
+    <Content Include="images\storelogo.scale-125.png" />
+    <Content Include="images\storelogo.scale-150.png" />
+    <Content Include="images\storelogo.scale-200.png" />
+    <Content Include="images\storelogo.scale-400.png" />
+    <Content Include="images\Wide310x150Logo.scale-100.png" />
+    <Content Include="images\Wide310x150Logo.scale-125.png" />
+    <Content Include="images\Wide310x150Logo.scale-150.png" />
+    <Content Include="images\Wide310x150Logo.scale-400.png" />
+    <Content Include="index.html" />
+    <Content Include="images\LockScreenLogo.scale-200.png" />
+    <Content Include="images\SplashScreen.scale-200.png" />
+    <Content Include="images\Square150x150Logo.scale-200.png" />
+    <Content Include="images\Square44x44Logo.scale-200.png" />
+    <Content Include="images\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Content Include="images\StoreLogo.png" />
+    <Content Include="images\Wide310x150Logo.scale-200.png" />
+    <None Include="batchone_TemporaryKey.pfx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
+  <!-- To modify your build process, add your task inside one of the targets below then uncomment
+       that target and the DisableFastUpToDateCheck PropertyGroup. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  <PropertyGroup>
+    <DisableFastUpToDateCheck>true</DisableFastUpToDateCheck>
+  </PropertyGroup>
+  -->
+</Project>

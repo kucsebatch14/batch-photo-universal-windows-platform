@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="88b7e0c9-2b00-43c3-809e-06746111d60d" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>256,16,24,32,48</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="index.html" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/index.html">
+				<Candidate type="Path">
+					<Value>index.html</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="10410117_356453944532089_1775201709199107715_n (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/10410117_356453944532089_1775201709199107715_n (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\10410117_356453944532089_1775201709199107715_n (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="10421146_633331156757641_3468701943440338474_n (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/10421146_633331156757641_3468701943440338474_n (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\10421146_633331156757641_3468701943440338474_n (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="10501663_857068337659530_8124357899062474680_n (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/10501663_857068337659530_8124357899062474680_n (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\10501663_857068337659530_8124357899062474680_n (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="10633913_314340392092267_5249081227674460974_o (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/10633913_314340392092267_5249081227674460974_o (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\10633913_314340392092267_5249081227674460974_o (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="10676263_383425115168305_990433615456419469_n (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/10676263_383425115168305_990433615456419469_n (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\10676263_383425115168305_990433615456419469_n (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="10697301_877717452293820_2572722507979854419_o (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/10697301_877717452293820_2572722507979854419_o (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\10697301_877717452293820_2572722507979854419_o (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="10818304_314342162092090_395172027976619217_o (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/10818304_314342162092090_395172027976619217_o (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\10818304_314342162092090_395172027976619217_o (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="10947414_398237917020358_5508297861648559301_o (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/10947414_398237917020358_5508297861648559301_o (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\10947414_398237917020358_5508297861648559301_o (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="11016969_944519922234143_5126001679330426792_o (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/11016969_944519922234143_5126001679330426792_o (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\11016969_944519922234143_5126001679330426792_o (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="12496029_573921242762251_2052762012375327306_o (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/12496029_573921242762251_2052762012375327306_o (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\12496029_573921242762251_2052762012375327306_o (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="13329581_1212963658769196_6387393253947498954_o (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/13329581_1212963658769196_6387393253947498954_o (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\13329581_1212963658769196_6387393253947498954_o (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="13344505_1221330757890559_2030607383359106390_n (1).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/13344505_1221330757890559_2030607383359106390_n (1).jpg">
+					<Candidate type="Path">
+						<Value>images\13344505_1221330757890559_2030607383359106390_n (1).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="13344505_1221330757890559_2030607383359106390_n (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/13344505_1221330757890559_2030607383359106390_n (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\13344505_1221330757890559_2030607383359106390_n (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="15027644_553454368177658_7347492840023171616_n (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/15027644_553454368177658_7347492840023171616_n (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\15027644_553454368177658_7347492840023171616_n (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="15442201_742229712594750_6526014741622933126_n (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/15442201_742229712594750_6526014741622933126_n (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\15442201_742229712594750_6526014741622933126_n (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="16143591_1321943831211434_8589874105443143401_o (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/16143591_1321943831211434_8589874105443143401_o (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\16143591_1321943831211434_8589874105443143401_o (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="28795081_1872774442746184_1929830661242224640_o (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/28795081_1872774442746184_1929830661242224640_o (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\28795081_1872774442746184_1929830661242224640_o (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="29790495_788669601322799_1212993983815352320_o (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/29790495_788669601322799_1212993983815352320_o (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\29790495_788669601322799_1212993983815352320_o (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Fiore-Toyota.jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/Fiore-Toyota.jpg">
+					<Candidate type="Path">
+						<Value>images\Fiore-Toyota.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IMAG0301 (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/IMAG0301 (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\IMAG0301 (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IMG20160901154848 (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/IMG20160901154848 (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\IMG20160901154848 (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IMG_20170414_180116 (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/IMG_20170414_180116 (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\IMG_20170414_180116 (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IMG_20180413_234539 (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/IMG_20180413_234539 (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\IMG_20180413_234539 (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IMG_5442.jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/IMG_5442.jpg">
+					<Candidate type="Path">
+						<Value>images\IMG_5442.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IMG_5916 (Small).JPG" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/IMG_5916 (Small).JPG">
+					<Candidate type="Path">
+						<Value>images\IMG_5916 (Small).JPG</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LargeTile.png" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/LargeTile.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\LargeTile.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="lasttour.jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/lasttour.jpg">
+					<Candidate type="Path">
+						<Value>images\lasttour.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pic_cox.jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/pic_cox.jpg">
+					<Candidate type="Path">
+						<Value>images\pic_cox.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pic_farewell (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/pic_farewell (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\pic_farewell (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pic_firstcampus.jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/pic_firstcampus.jpg">
+					<Candidate type="Path">
+						<Value>images\pic_firstcampus.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pic_firstclass.jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/pic_firstclass.jpg">
+					<Candidate type="Path">
+						<Value>images\pic_firstclass.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pic_firstfootball.jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/pic_firstfootball.jpg">
+					<Candidate type="Path">
+						<Value>images\pic_firstfootball.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pic_firsthangout.jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/pic_firsthangout.jpg">
+					<Candidate type="Path">
+						<Value>images\pic_firsthangout.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pic_firstviva.jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/pic_firstviva.jpg">
+					<Candidate type="Path">
+						<Value>images\pic_firstviva.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pic_hillyvalley (Small).JPG" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/pic_hillyvalley (Small).JPG">
+					<Candidate type="Path">
+						<Value>images\pic_hillyvalley (Small).JPG</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pic_oldcombined (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/pic_oldcombined (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\pic_oldcombined (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pic_panam (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/pic_panam (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\pic_panam (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pic_sumit (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/pic_sumit (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\pic_sumit (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="rag (Small).jpg" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/rag (Small).jpg">
+					<Candidate type="Path">
+						<Value>images\rag (Small).jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallTile.png" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/SmallTile.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\SmallTile.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="splashscreen.png" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/splashscreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-48, AlternateForm-UNPLATED" type="Path">
+						<Value>images\Square44x44Logo.altform-unplated_targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-48" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32, AlternateForm-UNPLATED" type="Path">
+						<Value>images\Square44x44Logo.altform-unplated_targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256, AlternateForm-UNPLATED" type="Path">
+						<Value>images\Square44x44Logo.altform-unplated_targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>images\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.targetsize-24.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16, AlternateForm-UNPLATED" type="Path">
+						<Value>images\Square44x44Logo.altform-unplated_targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/StoreLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\storelogo.scale-200.png</Value>
+					</Candidate>
+					<Candidate type="Path">
+						<Value>images\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://88b7e0c9-2b00-43c3-809e-06746111d60d/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

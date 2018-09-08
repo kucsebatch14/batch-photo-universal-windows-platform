@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>XLPND</Machine>
+    <WindowsUser>MD. SHAHIDUL ISLAM</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>88b7e0c9-2b00-43c3-809e-06746111d60d</PackageIdentityName>
+    <PackageIdentityPublisher>CN=MD. SHAHIDUL ISLAM</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\10410117_356453944532089_1775201709199107715_n %28Small%29.jpg">
+      <PackagePath>images\10410117_356453944532089_1775201709199107715_n %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\10421146_633331156757641_3468701943440338474_n %28Small%29.jpg">
+      <PackagePath>images\10421146_633331156757641_3468701943440338474_n %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\10501663_857068337659530_8124357899062474680_n %28Small%29.jpg">
+      <PackagePath>images\10501663_857068337659530_8124357899062474680_n %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\10633913_314340392092267_5249081227674460974_o %28Small%29.jpg">
+      <PackagePath>images\10633913_314340392092267_5249081227674460974_o %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\10676263_383425115168305_990433615456419469_n %28Small%29.jpg">
+      <PackagePath>images\10676263_383425115168305_990433615456419469_n %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\10697301_877717452293820_2572722507979854419_o %28Small%29.jpg">
+      <PackagePath>images\10697301_877717452293820_2572722507979854419_o %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\10818304_314342162092090_395172027976619217_o %28Small%29.jpg">
+      <PackagePath>images\10818304_314342162092090_395172027976619217_o %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\10947414_398237917020358_5508297861648559301_o %28Small%29.jpg">
+      <PackagePath>images\10947414_398237917020358_5508297861648559301_o %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\11016969_944519922234143_5126001679330426792_o %28Small%29.jpg">
+      <PackagePath>images\11016969_944519922234143_5126001679330426792_o %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\12496029_573921242762251_2052762012375327306_o %28Small%29.jpg">
+      <PackagePath>images\12496029_573921242762251_2052762012375327306_o %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\13329581_1212963658769196_6387393253947498954_o %28Small%29.jpg">
+      <PackagePath>images\13329581_1212963658769196_6387393253947498954_o %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\13344505_1221330757890559_2030607383359106390_n %281%29.jpg">
+      <PackagePath>images\13344505_1221330757890559_2030607383359106390_n %281%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\13344505_1221330757890559_2030607383359106390_n %28Small%29.jpg">
+      <PackagePath>images\13344505_1221330757890559_2030607383359106390_n %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\15027644_553454368177658_7347492840023171616_n %28Small%29.jpg">
+      <PackagePath>images\15027644_553454368177658_7347492840023171616_n %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\15442201_742229712594750_6526014741622933126_n %28Small%29.jpg">
+      <PackagePath>images\15442201_742229712594750_6526014741622933126_n %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\16143591_1321943831211434_8589874105443143401_o %28Small%29.jpg">
+      <PackagePath>images\16143591_1321943831211434_8589874105443143401_o %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\28795081_1872774442746184_1929830661242224640_o %28Small%29.jpg">
+      <PackagePath>images\28795081_1872774442746184_1929830661242224640_o %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\29790495_788669601322799_1212993983815352320_o %28Small%29.jpg">
+      <PackagePath>images\29790495_788669601322799_1212993983815352320_o %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Fiore-Toyota.jpg">
+      <PackagePath>images\Fiore-Toyota.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\IMAG0301 %28Small%29.jpg">
+      <PackagePath>images\IMAG0301 %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\IMG20160901154848 %28Small%29.jpg">
+      <PackagePath>images\IMG20160901154848 %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\IMG_20170414_180116 %28Small%29.jpg">
+      <PackagePath>images\IMG_20170414_180116 %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\IMG_20180413_234539 %28Small%29.jpg">
+      <PackagePath>images\IMG_20180413_234539 %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\IMG_5442.jpg">
+      <PackagePath>images\IMG_5442.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\IMG_5916 %28Small%29.JPG">
+      <PackagePath>images\IMG_5916 %28Small%29.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\LargeTile.scale-100.png">
+      <PackagePath>images\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\LargeTile.scale-125.png">
+      <PackagePath>images\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\LargeTile.scale-150.png">
+      <PackagePath>images\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\LargeTile.scale-200.png">
+      <PackagePath>images\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\LargeTile.scale-400.png">
+      <PackagePath>images\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\lasttour.jpg">
+      <PackagePath>images\lasttour.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_cox.jpg">
+      <PackagePath>images\pic_cox.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_farewell %28Small%29.jpg">
+      <PackagePath>images\pic_farewell %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_firstcampus.jpg">
+      <PackagePath>images\pic_firstcampus.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_firstclass.jpg">
+      <PackagePath>images\pic_firstclass.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_firstfootball.jpg">
+      <PackagePath>images\pic_firstfootball.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_firsthangout.jpg">
+      <PackagePath>images\pic_firsthangout.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_firstviva.jpg">
+      <PackagePath>images\pic_firstviva.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_hillyvalley %28Small%29.JPG">
+      <PackagePath>images\pic_hillyvalley %28Small%29.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_oldcombined %28Small%29.jpg">
+      <PackagePath>images\pic_oldcombined %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_panam %28Small%29.jpg">
+      <PackagePath>images\pic_panam %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_sumit %28Small%29.jpg">
+      <PackagePath>images\pic_sumit %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\rag %28Small%29.jpg">
+      <PackagePath>images\rag %28Small%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\SmallTile.scale-100.png">
+      <PackagePath>images\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\SmallTile.scale-125.png">
+      <PackagePath>images\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\SmallTile.scale-150.png">
+      <PackagePath>images\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\SmallTile.scale-200.png">
+      <PackagePath>images\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\SmallTile.scale-400.png">
+      <PackagePath>images\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\splashscreen.scale-125.png">
+      <PackagePath>images\splashscreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\splashscreen.scale-150.png">
+      <PackagePath>images\splashscreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\splashscreen.scale-400.png">
+      <PackagePath>images\splashscreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square150x150Logo.scale-125.png">
+      <PackagePath>images\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square150x150Logo.scale-150.png">
+      <PackagePath>images\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square150x150Logo.scale-400.png">
+      <PackagePath>images\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.scale-125.png">
+      <PackagePath>images\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.scale-150.png">
+      <PackagePath>images\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.scale-400.png">
+      <PackagePath>images\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.targetsize-16.png">
+      <PackagePath>images\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.targetsize-24.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.targetsize-256.png">
+      <PackagePath>images\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.targetsize-32.png">
+      <PackagePath>images\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.targetsize-48.png">
+      <PackagePath>images\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\storelogo.scale-125.png">
+      <PackagePath>images\storelogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\storelogo.scale-150.png">
+      <PackagePath>images\storelogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\storelogo.scale-200.png">
+      <PackagePath>images\storelogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\storelogo.scale-400.png">
+      <PackagePath>images\storelogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Wide310x150Logo.scale-125.png">
+      <PackagePath>images\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Wide310x150Logo.scale-150.png">
+      <PackagePath>images\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Wide310x150Logo.scale-400.png">
+      <PackagePath>images\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\index.html">
+      <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

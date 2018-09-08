@@ -1,0 +1,1 @@
+MainPackage=C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\x86\Release\batchone_1.0.1.0_x86.appx

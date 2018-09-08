@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>XLPND</Machine>
+    <WindowsUser>MD. SHAHIDUL ISLAM</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>88b7e0c9-2b00-43c3-809e-06746111d60d</PackageIdentityName>
+    <PackageIdentityPublisher>CN=MD. SHAHIDUL ISLAM</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>76DE8E7077868494836C9C6AEBB2B8C07DF2C1161D37F660BF92253D5429A465</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>88b7e0c9-2b00-43c3-809e-06746111d60d_1.0.0.0_neutral__rnsjfzfaey87r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>88b7e0c9-2b00-43c3-809e-06746111d60d_rnsjfzfaey87r!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>88b7e0c9-2b00-43c3-809e-06746111d60d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=MD. SHAHIDUL ISLAM</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:46:23.029</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\10410117_356453944532089_1775201709199107715_n %28Small%29.jpg">
+      <PackagePath>images\10410117_356453944532089_1775201709199107715_n %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.194</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\10421146_633331156757641_3468701943440338474_n %28Small%29.jpg">
+      <PackagePath>images\10421146_633331156757641_3468701943440338474_n %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\10501663_857068337659530_8124357899062474680_n %28Small%29.jpg">
+      <PackagePath>images\10501663_857068337659530_8124357899062474680_n %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\10633913_314340392092267_5249081227674460974_o %28Small%29.jpg">
+      <PackagePath>images\10633913_314340392092267_5249081227674460974_o %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.202</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\10676263_383425115168305_990433615456419469_n %28Small%29.jpg">
+      <PackagePath>images\10676263_383425115168305_990433615456419469_n %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.206</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\10697301_877717452293820_2572722507979854419_o %28Small%29.jpg">
+      <PackagePath>images\10697301_877717452293820_2572722507979854419_o %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.206</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\10818304_314342162092090_395172027976619217_o %28Small%29.jpg">
+      <PackagePath>images\10818304_314342162092090_395172027976619217_o %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\10947414_398237917020358_5508297861648559301_o %28Small%29.jpg">
+      <PackagePath>images\10947414_398237917020358_5508297861648559301_o %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\11016969_944519922234143_5126001679330426792_o %28Small%29.jpg">
+      <PackagePath>images\11016969_944519922234143_5126001679330426792_o %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\12496029_573921242762251_2052762012375327306_o %28Small%29.jpg">
+      <PackagePath>images\12496029_573921242762251_2052762012375327306_o %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\13329581_1212963658769196_6387393253947498954_o %28Small%29.jpg">
+      <PackagePath>images\13329581_1212963658769196_6387393253947498954_o %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.222</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\13344505_1221330757890559_2030607383359106390_n %281%29.jpg">
+      <PackagePath>images\13344505_1221330757890559_2030607383359106390_n %281%29.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\13344505_1221330757890559_2030607383359106390_n %28Small%29.jpg">
+      <PackagePath>images\13344505_1221330757890559_2030607383359106390_n %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\15027644_553454368177658_7347492840023171616_n %28Small%29.jpg">
+      <PackagePath>images\15027644_553454368177658_7347492840023171616_n %28Small%29.jpg</PackagePath>
+      <Modified>2018-09-07T04:42:41.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\15442201_742229712594750_6526014741622933126_n %28Small%29.jpg">
+      <PackagePath>images\15442201_742229712594750_6526014741622933126_n %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\16143591_1321943831211434_8589874105443143401_o %28Small%29.jpg">
+      <PackagePath>images\16143591_1321943831211434_8589874105443143401_o %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\28795081_1872774442746184_1929830661242224640_o %28Small%29.jpg">
+      <PackagePath>images\28795081_1872774442746184_1929830661242224640_o %28Small%29.jpg</PackagePath>
+      <Modified>2018-09-07T04:41:14.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\29790495_788669601322799_1212993983815352320_o %28Small%29.jpg">
+      <PackagePath>images\29790495_788669601322799_1212993983815352320_o %28Small%29.jpg</PackagePath>
+      <Modified>2018-09-07T06:33:07.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Fiore-Toyota.jpg">
+      <PackagePath>images\Fiore-Toyota.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\IMAG0301 %28Small%29.jpg">
+      <PackagePath>images\IMAG0301 %28Small%29.jpg</PackagePath>
+      <Modified>2018-09-07T04:40:08.568</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\IMG20160901154848 %28Small%29.jpg">
+      <PackagePath>images\IMG20160901154848 %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.250</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\IMG_20170414_180116 %28Small%29.jpg">
+      <PackagePath>images\IMG_20170414_180116 %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.250</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\IMG_20180413_234539 %28Small%29.jpg">
+      <PackagePath>images\IMG_20180413_234539 %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\IMG_5442.jpg">
+      <PackagePath>images\IMG_5442.jpg</PackagePath>
+      <Modified>2018-09-07T04:47:12.819</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\IMG_5916 %28Small%29.JPG">
+      <PackagePath>images\IMG_5916 %28Small%29.JPG</PackagePath>
+      <Modified>2018-09-07T04:40:37.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\lasttour.jpg">
+      <PackagePath>images\lasttour.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.258</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\pic_cox.jpg">
+      <PackagePath>images\pic_cox.jpg</PackagePath>
+      <Modified>2018-07-07T04:58:01.936</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\pic_farewell %28Small%29.jpg">
+      <PackagePath>images\pic_farewell %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T03:21:18.568</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\pic_firstcampus.jpg">
+      <PackagePath>images\pic_firstcampus.jpg</PackagePath>
+      <Modified>2018-09-07T04:38:29.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\pic_firstclass.jpg">
+      <PackagePath>images\pic_firstclass.jpg</PackagePath>
+      <Modified>2018-08-07T11:54:44.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\pic_firstfootball.jpg">
+      <PackagePath>images\pic_firstfootball.jpg</PackagePath>
+      <Modified>2018-08-07T11:58:02.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\pic_firsthangout.jpg">
+      <PackagePath>images\pic_firsthangout.jpg</PackagePath>
+      <Modified>2018-08-07T11:54:44.319</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\pic_firstviva.jpg">
+      <PackagePath>images\pic_firstviva.jpg</PackagePath>
+      <Modified>2018-08-07T11:54:44.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\pic_hillyvalley %28Small%29.JPG">
+      <PackagePath>images\pic_hillyvalley %28Small%29.JPG</PackagePath>
+      <Modified>2018-07-07T03:21:18.765</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\pic_oldcombined %28Small%29.jpg">
+      <PackagePath>images\pic_oldcombined %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T03:21:18.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\pic_panam %28Small%29.jpg">
+      <PackagePath>images\pic_panam %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T03:21:18.794</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\pic_sumit %28Small%29.jpg">
+      <PackagePath>images\pic_sumit %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T04:23:46.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\rag %28Small%29.jpg">
+      <PackagePath>images\rag %28Small%29.jpg</PackagePath>
+      <Modified>2018-07-07T02:30:07.262</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\LargeTile.scale-100.png">
+      <PackagePath>images\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:41.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\LargeTile.scale-125.png">
+      <PackagePath>images\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:41.669</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\LargeTile.scale-150.png">
+      <PackagePath>images\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:41.827</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\LargeTile.scale-200.png">
+      <PackagePath>images\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:42.025</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\LargeTile.scale-400.png">
+      <PackagePath>images\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:42.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\SmallTile.scale-100.png">
+      <PackagePath>images\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:39.579</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\SmallTile.scale-125.png">
+      <PackagePath>images\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:39.673</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\SmallTile.scale-150.png">
+      <PackagePath>images\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:39.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\SmallTile.scale-200.png">
+      <PackagePath>images\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:39.869</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\SmallTile.scale-400.png">
+      <PackagePath>images\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:39.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:44.625</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\splashscreen.scale-125.png">
+      <PackagePath>images\splashscreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:44.796</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\splashscreen.scale-150.png">
+      <PackagePath>images\splashscreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:45.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\splashscreen.scale-400.png">
+      <PackagePath>images\splashscreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:45.856</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:40.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Square150x150Logo.scale-125.png">
+      <PackagePath>images\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:40.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Square150x150Logo.scale-150.png">
+      <PackagePath>images\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:40.353</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Square150x150Logo.scale-400.png">
+      <PackagePath>images\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:40.609</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:43.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:44.436</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:44.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:44.266</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:42.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Square44x44Logo.scale-125.png">
+      <PackagePath>images\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:42.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Square44x44Logo.scale-150.png">
+      <PackagePath>images\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:42.822</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Square44x44Logo.scale-400.png">
+      <PackagePath>images\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:43.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Square44x44Logo.targetsize-16.png">
+      <PackagePath>images\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:43.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Square44x44Logo.targetsize-24.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:43.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Square44x44Logo.targetsize-256.png">
+      <PackagePath>images\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:43.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Square44x44Logo.targetsize-32.png">
+      <PackagePath>images\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:43.386</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Square44x44Logo.targetsize-48.png">
+      <PackagePath>images\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:43.537</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:45.959</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\storelogo.scale-125.png">
+      <PackagePath>images\storelogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:46.052</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\storelogo.scale-150.png">
+      <PackagePath>images\storelogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:46.179</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\storelogo.scale-200.png">
+      <PackagePath>images\storelogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:46.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\storelogo.scale-400.png">
+      <PackagePath>images\storelogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:46.435</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:40.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Wide310x150Logo.scale-125.png">
+      <PackagePath>images\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:40.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Wide310x150Logo.scale-150.png">
+      <PackagePath>images\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:41.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Wide310x150Logo.scale-400.png">
+      <PackagePath>images\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:41.361</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-08-29T09:27:16.582</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:45.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:40.483</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:42.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:44.096</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-29T09:27:16.582</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:45:41.175</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2018-09-07T15:59:36.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-07T09:46:22.685</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

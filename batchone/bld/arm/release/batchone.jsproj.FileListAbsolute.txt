@@ -1,0 +1,197 @@
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\resources.pri
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\AppxManifest.xml
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\10410117_356453944532089_1775201709199107715_n (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\10421146_633331156757641_3468701943440338474_n (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\10501663_857068337659530_8124357899062474680_n (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\10633913_314340392092267_5249081227674460974_o (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\10676263_383425115168305_990433615456419469_n (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\10697301_877717452293820_2572722507979854419_o (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\10818304_314342162092090_395172027976619217_o (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\10947414_398237917020358_5508297861648559301_o (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\11016969_944519922234143_5126001679330426792_o (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\12496029_573921242762251_2052762012375327306_o (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\13329581_1212963658769196_6387393253947498954_o (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\13344505_1221330757890559_2030607383359106390_n (1).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\13344505_1221330757890559_2030607383359106390_n (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\15027644_553454368177658_7347492840023171616_n (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\15442201_742229712594750_6526014741622933126_n (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\16143591_1321943831211434_8589874105443143401_o (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\28795081_1872774442746184_1929830661242224640_o (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\29790495_788669601322799_1212993983815352320_o (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Fiore-Toyota.jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\IMAG0301 (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\IMG20160901154848 (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\IMG_20170414_180116 (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\IMG_20180413_234539 (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\IMG_5442.jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\IMG_5916 (Small).JPG
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\LargeTile.scale-100.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\LargeTile.scale-125.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\LargeTile.scale-150.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\LargeTile.scale-200.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\LargeTile.scale-400.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\lasttour.jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\LockScreenLogo.scale-200.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_cox.jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_farewell (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_firstcampus.jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_firstclass.jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_firstfootball.jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_firsthangout.jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_firstviva.jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_hillyvalley (Small).JPG
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_oldcombined (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_panam (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\pic_sumit (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\rag (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\SmallTile.scale-100.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\SmallTile.scale-125.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\SmallTile.scale-150.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\SmallTile.scale-200.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\SmallTile.scale-400.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\splashscreen.scale-100.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\splashscreen.scale-125.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\splashscreen.scale-150.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\SplashScreen.scale-200.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\splashscreen.scale-400.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square150x150Logo.scale-100.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square150x150Logo.scale-125.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square150x150Logo.scale-150.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square150x150Logo.scale-200.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square150x150Logo.scale-400.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.altform-unplated_targetsize-16.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.altform-unplated_targetsize-256.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.altform-unplated_targetsize-32.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.altform-unplated_targetsize-48.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.scale-100.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.scale-125.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.scale-150.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.scale-200.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.scale-400.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.targetsize-16.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.targetsize-24.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.targetsize-256.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.targetsize-32.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Square44x44Logo.targetsize-48.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\StoreLogo.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\storelogo.scale-100.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\storelogo.scale-125.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\storelogo.scale-150.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\storelogo.scale-200.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\storelogo.scale-400.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Wide310x150Logo.scale-100.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Wide310x150Logo.scale-125.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Wide310x150Logo.scale-150.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Wide310x150Logo.scale-200.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\images\Wide310x150Logo.scale-400.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\index.html
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\ilc\resources.pri
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bin\ARM\Release\batchone.build.appxrecipe
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\batchone.jsproj.CoreCompileInputs.cache
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ResourceHandlingTask.state
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\priconfig.xml
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\priconfig.xml.intermediate
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\unfiltered.layout.resfiles
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\unfiltered.layout.resfiles.intermediate
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\filtered.layout.resfiles
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\filtered.layout.resfiles.intermediate
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\excluded.layout.resfiles
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\excluded.layout.resfiles.intermediate
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\resources.resfiles
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\resources.resfiles.intermediate
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\pri.resfiles
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\pri.resfiles.intermediate
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\qualifiers.txt
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\qualifiers.txt.intermediate
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ProjectArchitectures.txt
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\AppxManifest.xml
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\resources.pri
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\10410117_356453944532089_1775201709199107715_n (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\10421146_633331156757641_3468701943440338474_n (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\10501663_857068337659530_8124357899062474680_n (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\10633913_314340392092267_5249081227674460974_o (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\10676263_383425115168305_990433615456419469_n (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\10697301_877717452293820_2572722507979854419_o (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\10818304_314342162092090_395172027976619217_o (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\10947414_398237917020358_5508297861648559301_o (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\11016969_944519922234143_5126001679330426792_o (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\12496029_573921242762251_2052762012375327306_o (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\13329581_1212963658769196_6387393253947498954_o (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\13344505_1221330757890559_2030607383359106390_n (1).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\13344505_1221330757890559_2030607383359106390_n (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\15027644_553454368177658_7347492840023171616_n (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\15442201_742229712594750_6526014741622933126_n (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\16143591_1321943831211434_8589874105443143401_o (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\28795081_1872774442746184_1929830661242224640_o (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\29790495_788669601322799_1212993983815352320_o (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Fiore-Toyota.jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\IMAG0301 (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\IMG20160901154848 (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\IMG_20170414_180116 (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\IMG_20180413_234539 (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\IMG_5442.jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\IMG_5916 (Small).JPG
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\lasttour.jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\pic_cox.jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\pic_farewell (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\pic_firstcampus.jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\pic_firstclass.jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\pic_firstfootball.jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\pic_firsthangout.jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\pic_firstviva.jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\pic_hillyvalley (Small).JPG
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\pic_oldcombined (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\pic_panam (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\pic_sumit (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\rag (Small).jpg
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\LargeTile.scale-100.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\LargeTile.scale-125.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\LargeTile.scale-150.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\LargeTile.scale-200.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\LargeTile.scale-400.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\SmallTile.scale-100.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\SmallTile.scale-125.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\SmallTile.scale-150.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\SmallTile.scale-200.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\SmallTile.scale-400.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\splashscreen.scale-100.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\splashscreen.scale-125.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\splashscreen.scale-150.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\splashscreen.scale-400.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Square150x150Logo.scale-100.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Square150x150Logo.scale-125.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Square150x150Logo.scale-150.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Square150x150Logo.scale-400.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Square44x44Logo.altform-unplated_targetsize-16.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Square44x44Logo.altform-unplated_targetsize-256.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Square44x44Logo.altform-unplated_targetsize-32.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Square44x44Logo.altform-unplated_targetsize-48.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Square44x44Logo.scale-100.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Square44x44Logo.scale-125.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Square44x44Logo.scale-150.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Square44x44Logo.scale-400.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Square44x44Logo.targetsize-16.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Square44x44Logo.targetsize-24.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Square44x44Logo.targetsize-256.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Square44x44Logo.targetsize-32.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Square44x44Logo.targetsize-48.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\storelogo.scale-100.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\storelogo.scale-125.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\storelogo.scale-150.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\storelogo.scale-200.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\storelogo.scale-400.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Wide310x150Logo.scale-100.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Wide310x150Logo.scale-125.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Wide310x150Logo.scale-150.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Wide310x150Logo.scale-400.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\LockScreenLogo.scale-200.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\SplashScreen.scale-200.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Square150x150Logo.scale-200.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Square44x44Logo.scale-200.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\StoreLogo.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\images\Wide310x150Logo.scale-200.png
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc\in\index.html
+C:\Users\MD. SHAHIDUL ISLAM\source\repos\batchone\batchone\bld\ARM\Release\ilc.batchone.rsp

@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='C:\ProgramData\Windows App Certification Kit\results.xsl'?>
+<REPORT xml:lang="en-US" OVERALL_RESULT="FAIL" VERSION="10.0.17134.12" LATEST_VERSION="TRUE" UPDATE_DOWNLOAD_URL="" TOOLSET_ARCHITECTURE="x64" SecureBoot="FALSE" APP_TYPE="UapApp" PUBLISHER_DISPLAY_NAME="CN=MD. SHAHIDUL ISLAM" APP_NAME="" APP_VERSION="" OSVERSION="10.0.17134.0" OS="Microsoft Windows 10 Pro" PER_USER_APPLICATION="" PARTIAL_RUN="FALSE" LCID="1033" X64_ONLY="FALSE" VALIDATION_TYPE="UI" ReportGenerationTime="9/8/2018 8:08:58 AM" ID="d05966858f5cedddede47341fd93a216">
+  <REQUIREMENTS>
+    <REQUIREMENT NUMBER="10" TITLE="Deployment and launch tests" RATIONALE="Application failures such as crashes and hangs are a major disruption to users and cause frustration. Eliminating such failures improves application stability and reliability, and overall, provides users with a better application experience.">
+      <TEST INDEX="50" NAME="Bytecode generation" DESCRIPTION="Byte code generation should be able to complete successfully for packages containing an HTML5 Windows Store app." EXECUTIONTIME="00h:00m:02s.84ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+      <TEST INDEX="79" NAME="Background tasks cancelation handler" DESCRIPTION="App should implement event handler to handle background task cancelation request." EXECUTIONTIME="00h:01m:03s.43ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+      <TEST INDEX="81" NAME="Platform version launch" DESCRIPTION="App should not mis-use OSVersionInfo API to provide users functionality that is specific to the OS." EXECUTIONTIME="00h:00m:24s.59ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+      <TEST INDEX="47" NAME="App launch" DESCRIPTION="App launch tests." EXECUTIONTIME="00h:00m:22s.02ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+      <TEST INDEX="21" NAME="Crashes and hangs" DESCRIPTION="Do not crash or hang during the testing process." EXECUTIONTIME="00h:00m:04s.23ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="12" TITLE="Package compliance test" RATIONALE="The package manifest was missing one or more required attributes.">
+      <TEST INDEX="77" NAME="Application count" DESCRIPTION="One package should not define more than one app in the manifest." EXECUTIONTIME="00h:00m:01s.41ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+      <TEST INDEX="31" NAME="App manifest" DESCRIPTION="App manifest must include valid entries for all required fields." EXECUTIONTIME="00h:00m:03s.90ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+      <TEST INDEX="74" NAME="Bundle manifest" DESCRIPTION="Bundle manifest must include valid entries for all required fields." EXECUTIONTIME="00h:00m:06s.46ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+      <TEST INDEX="75" NAME="Package size" DESCRIPTION="Package file size should not be greater than 4 gigabytes." EXECUTIONTIME="00h:00m:02s.43ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+      <TEST INDEX="90" NAME="Resource Packages" DESCRIPTION="Check if any resource packages contain PE files." EXECUTIONTIME="00h:00m:01s.49ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+      <TEST INDEX="83" NAME="Restricted namespace" DESCRIPTION="Check if any restricted namespace is referenced in the appx manifest." EXECUTIONTIME="00h:00m:01s.44ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="14" TITLE="Windows security features test" RATIONALE="Applications must opt-into Windows security features.">
+      <TEST INDEX="33" NAME="Binary analyzer" DESCRIPTION="Analysis of security features enabled on binaries" EXECUTIONTIME="00h:00m:08s.91ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+      <TEST INDEX="70" NAME="Banned file analyzer" DESCRIPTION="Analysis of application to detect known insecure files" EXECUTIONTIME="00h:00m:01s.77ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+      <TEST INDEX="62" NAME="Private code signing" DESCRIPTION="App should not package private code signing key files." EXECUTIONTIME="00h:00m:01s.85ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="15" TITLE="Supported API test" RATIONALE="The application should only refer to the APIs allowed by the Windows SDK for Windows Store Apps.">
+      <TEST INDEX="38" NAME="Supported APIs" DESCRIPTION="Windows Store App must only use supported platform APIs." EXECUTIONTIME="00h:00m:02s.33ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="19" TITLE="App manifest resources tests" RATIONALE="The App Package Manifest should have valid resources defined in the resources.pri file, as per the App Packaging Specification and App Manifest Schema.">
+      <TEST INDEX="45" NAME="App resources" DESCRIPTION="The package should have valid resources defined in the resources.pri file." EXECUTIONTIME="00h:00m:01s.18ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+      <TEST INDEX="61" NAME="Branding" DESCRIPTION="App should not use the default images packed by windows SDK samples or Visual Studio." EXECUTIONTIME="00h:00m:06s.47ms" OPTIONAL="FALSE">
+        <MESSAGES>
+          <MESSAGE TEXT="Image file StoreLogo.png is a default image." />
+        </MESSAGES>
+        <RESULT><![CDATA[FAIL]]></RESULT>
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="20" TITLE="Debug configuration test" RATIONALE="The App should not install any debug binaries.">
+      <TEST INDEX="46" NAME="Debug configuration" DESCRIPTION="The App should not install any debug binaries." EXECUTIONTIME="00h:00m:02s.71ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="21" TITLE="File encoding test" RATIONALE="Packages containing an HTML5 Windows Store app must have correct file encoding.">
+      <TEST INDEX="49" NAME="UTF-8 file encoding" DESCRIPTION="Packages containing an HTML5 Windows Store app must have correct file encoding." EXECUTIONTIME="00h:00m:02s.16ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="23" TITLE="App Capabilities test" RATIONALE="Packages declaring special-use capabilities will have to provide justifications during the onboarding process.">
+      <TEST INDEX="52" NAME="Special use capabilities" DESCRIPTION="Packages declaring special-use capabilities will have to provide justifications during the onboarding process." EXECUTIONTIME="00h:00m:01s.52ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="24" TITLE="Windows Runtime metadata validation" RATIONALE="Metadata needs to be conformant and consistent across all generation sources.">
+      <TEST INDEX="56" NAME="ExclusiveTo attribute" DESCRIPTION="A class must not implement an interface that is marked ExclusiveTo another class." EXECUTIONTIME="00h:00m:13s.66ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+      <TEST INDEX="57" NAME="Type location" DESCRIPTION="Types must be defined in the metadata file with the longest matching namespace." EXECUTIONTIME="00h:00m:01s.02ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+      <TEST INDEX="55" NAME="Type name case-sensitivity" DESCRIPTION="Namespace and type names must not vary only by casing." EXECUTIONTIME="00h:00m:00s.99ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+      <TEST INDEX="54" NAME="Type name correctness" DESCRIPTION="Only system types can be in the Windows namespace and no types can be in the global namespace." EXECUTIONTIME="00h:00m:00s.98ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+      <TEST INDEX="58" NAME="General metadata correctness" DESCRIPTION="Metadata files must meet various requirements in order to be valid and correct." EXECUTIONTIME="00h:00m:11s.00ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+      <TEST INDEX="53" NAME="Properties" DESCRIPTION="Write-only and indexer properties may not be used. Corresponding getter and setter methods must match in type." EXECUTIONTIME="00h:00m:00s.91ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="25" TITLE="Package sanity test" RATIONALE="Validation of the app package contents to ensure correctness.">
+      <TEST INDEX="63" NAME="Platform appropriate files" DESCRIPTION="App should not install files that do not match the target processor architecture." EXECUTIONTIME="00h:00m:01s.66ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+      <TEST INDEX="66" NAME="Supported directory structure check" DESCRIPTION="Validate each file in the package for that the file name length should be less than MAX_PATH." EXECUTIONTIME="00h:00m:01s.32ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="27" TITLE="Resource Usage Test" RATIONALE="WinJS background tasks need to call close() to free resource.">
+      <TEST INDEX="68" NAME="WinJS background task" DESCRIPTION="WinJS background tasks need to call close() to free resource." EXECUTIONTIME="00h:00m:06s.85ms" OPTIONAL="FALSE">
+        <MESSAGES />
+        <RESULT><![CDATA[PASS]]></RESULT>
+      </TEST>
+    </REQUIREMENT>
+  </REQUIREMENTS>
+  <APPLICATIONS>
+    <Installed_Programs>
+      <Program Name="88b7e0c9-2b00-43c3-809e-06746111d60d" Type="Application" Source="AppxPackage" Publisher="CN=MD. SHAHIDUL ISLAM" Version="1.0.1.0" Language="1033" InstallDate="" OSVersionAtInstallTime="10.0.0.17134" RootDirPath="C:\Program Files\windowsapps\88b7e0c9-2b00-43c3-809e-06746111d60d_1.0.1.0_x64__rnsjfzfaey87r" Id="00008bc078cbdfcc9d0fe8d2bb0d7bd3627300000904" HiddenArp="false">
+        <Indicators>
+          <WindowsStoreAppManifestIndicators>
+            <PackageManifest PackageFullName="88b7e0c9-2b00-43c3-809e-06746111d60d_1.0.1.0_x64__rnsjfzfaey87r">
+              <Package>
+                <Identity Name="88b7e0c9-2b00-43c3-809e-06746111d60d" Version="1.0.1.0" Publisher="CN=MD. SHAHIDUL ISLAM" ProcessorArchitecture="x64" />
+                <PhoneIdentity PhoneProductId="88b7e0c9-2b00-43c3-809e-06746111d60d" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+                <Properties>
+                  <DisplayName>batchone</DisplayName>
+                  <PublisherDisplayName>MD. SHAHIDUL ISLAM</PublisherDisplayName>
+                  <Logo>images\storelogo.png</Logo>
+                </Properties>
+                <Dependencies>
+                  <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.15063.0" MaxVersionTested="10.0.17134.0" />
+                </Dependencies>
+                <Resources>
+                  <Resource Language="EN-US" />
+                  <Resource Scale="200" />
+                </Resources>
+                <Applications>
+                  <Application Id="App" StartPage="ms-appx-web:///index.html">
+                    <ApplicationContentUriRules>
+                      <Rule Match="ms-appx-web:///index.html" Type="include" WindowsRuntimeAccess="all" />
+                    </ApplicationContentUriRules>
+                    <VisualElements DisplayName="KU CSE 14" Description="batchone" BackgroundColor="transparent" Square150x150Logo="images\Square150x150Logo.png" Square44x44Logo="images\Square44x44Logo.png" ForegroundText="light">
+                      <DefaultTile Wide310x150Logo="images\Wide310x150Logo.png" Square310x310Logo="images\LargeTile.png" Square71x71Logo="images\SmallTile.png" />
+                      <SplashScreen Image="images\splashscreen.png" />
+                    </VisualElements>
+                  </Application>
+                </Applications>
+                <Capabilities>
+                  <Capability Name="internetClient" />
+                </Capabilities>
+              </Package>
+            </PackageManifest>
+            <BundleManifest PackageFamilyName="88b7e0c9-2b00-43c3-809e-06746111d60d_rnsjfzfaey87r">
+              <Bundle SchemaVersion="3.0">
+                <Identity Name="88b7e0c9-2b00-43c3-809e-06746111d60d" Publisher="CN=MD. SHAHIDUL ISLAM" Version="1.0.1.0" />
+                <Packages>
+                  <Package Type="application" Version="1.0.1.0" Architecture="x86" FileName="batchone_1.0.1.0_x86.appx" Offset="8772580" Size="4090554">
+                    <Resources>
+                      <Resource Language="EN-US" />
+                      <Resource Scale="200" />
+                    </Resources>
+                  </Package>
+                  <Package Type="application" Version="1.0.1.0" Architecture="x64" FileName="batchone_1.0.1.0_x64.appx" Offset="4681947" Size="4090554">
+                    <Resources>
+                      <Resource Language="EN-US" />
+                      <Resource Scale="200" />
+                    </Resources>
+                  </Package>
+                  <Package Type="application" Version="1.0.1.0" Architecture="arm" FileName="batchone_1.0.1.0_ARM.appx" Offset="55" Size="4090553">
+                    <Resources>
+                      <Resource Language="EN-US" />
+                      <Resource Scale="200" />
+                    </Resources>
+                  </Package>
+                  <Package Type="resource" Version="1.0.1.0" ResourceId="split.scale-100" FileName="batchone_1.0.1.0_scale-100.appx" Offset="4090693" Size="56601" Architecture="neutral">
+                    <Resources>
+                      <Resource Scale="100" />
+                    </Resources>
+                  </Package>
+                  <Package Type="resource" Version="1.0.1.0" ResourceId="split.scale-125" FileName="batchone_1.0.1.0_scale-125.appx" Offset="4147379" Size="73883" Architecture="neutral">
+                    <Resources>
+                      <Resource Scale="125" />
+                    </Resources>
+                  </Package>
+                  <Package Type="resource" Version="1.0.1.0" ResourceId="split.scale-150" FileName="batchone_1.0.1.0_scale-150.appx" Offset="4221347" Size="93945" Architecture="neutral">
+                    <Resources>
+                      <Resource Scale="150" />
+                    </Resources>
+                  </Package>
+                  <Package Type="resource" Version="1.0.1.0" ResourceId="split.scale-400" FileName="batchone_1.0.1.0_scale-400.appx" Offset="4315377" Size="366491" Architecture="neutral">
+                    <Resources>
+                      <Resource Scale="400" />
+                    </Resources>
+                  </Package>
+                </Packages>
+              </Bundle>
+            </BundleManifest>
+          </WindowsStoreAppManifestIndicators>
+        </Indicators>
+        <StaticProperties>
+          <Files Id="0000da39a3ee5e6b4b0d3255bfef95601890afd80709">
+            <File Id="0000b3226f08e2fa562ea9e24cf25ed81ffe6a999c78" Name="index.html" ProductName="" CompanyName="" ProductVersion="" VerLanguage="0" SwitchBackContext="0" FileVersion="" Size="0" SizeOfImage="0" PeHeaderHash="" PeChecksum="0" CrcChecksum="-972906192" BinProductVersion="" BinFileVersion="" FileDescription="" LegalCopyright="" LinkDate="" BinaryType="data_only" LowerCaseLongPath="C:\Program Files\windowsapps\88b7e0c9-2b00-43c3-809e-06746111d60d_1.0.1.0_x64__rnsjfzfaey87r\index.html" />
+            <File Id="0000bac0eb583d60ab0fc311b8a1a1f55073a4aa0063" Name="resources.4fbd69ce.pri" ProductName="" CompanyName="" ProductVersion="" VerLanguage="0" SwitchBackContext="0" FileVersion="" Size="0" SizeOfImage="0" PeHeaderHash="" PeChecksum="0" CrcChecksum="-905272324" BinProductVersion="" BinFileVersion="" FileDescription="" LegalCopyright="" LinkDate="" BinaryType="data_only" LowerCaseLongPath="C:\Program Files\windowsapps\88b7e0c9-2b00-43c3-809e-06746111d60d_1.0.1.0_x64__rnsjfzfaey87r\microsoft.system.package.metadata\resources.4fbd69ce.pri" />
+            <File Id="0000bac0eb583d60ab0fc311b8a1a1f55073a4aa0063" Name="S-1-5-21-1570191162-3563717898-291963853-1001-MergedResources-0.pri" ProductName="" CompanyName="" ProductVersion="" VerLanguage="0" SwitchBackContext="0" FileVersion="" Size="0" SizeOfImage="0" PeHeaderHash="" PeChecksum="0" CrcChecksum="-905272324" BinProductVersion="" BinFileVersion="" FileDescription="" LegalCopyright="" LinkDate="" BinaryType="data_only" LowerCaseLongPath="C:\Program Files\windowsapps\88b7e0c9-2b00-43c3-809e-06746111d60d_1.0.1.0_x64__rnsjfzfaey87r\microsoft.system.package.metadata\s-1-5-21-1570191162-3563717898-291963853-1001-mergedresources-0.pri" />
+            <File Id="0000e5a33b018da4cd8aba6db81d1d1a148ddd08a151" Name="resources.pri" ProductName="" CompanyName="" ProductVersion="" VerLanguage="0" SwitchBackContext="0" FileVersion="" Size="0" SizeOfImage="0" PeHeaderHash="" PeChecksum="0" CrcChecksum="-2064680914" BinProductVersion="" BinFileVersion="" FileDescription="" LegalCopyright="" LinkDate="" BinaryType="data_only" LowerCaseLongPath="C:\Program Files\windowsapps\88b7e0c9-2b00-43c3-809e-06746111d60d_1.0.1.0_x64__rnsjfzfaey87r\resources.pri" />
+          </Files>
+        </StaticProperties>
+      </Program>
+    </Installed_Programs>
+  </APPLICATIONS>
+  <DEPENDENCY_INFORMATION>
+    <AitStaticAnalysis ProgramId="00008bc078cbdfcc9d0fe8d2bb0d7bd3627300000904" AnalysisVersion="1.60" DictionaryVersion="3.4" Type="Package" Id="88b7e0c9-2b00-43c3-809e-06746111d60d_1.0.1.0_x64__rnsjfzfaey87r">
+      <AitFile ErrorCode="0" Name="index.html" Id="0000b3226f08e2fa562ea9e24cf25ed81ffe6a999c78" />
+    </AitStaticAnalysis>
+  </DEPENDENCY_INFORMATION>
+</REPORT>
